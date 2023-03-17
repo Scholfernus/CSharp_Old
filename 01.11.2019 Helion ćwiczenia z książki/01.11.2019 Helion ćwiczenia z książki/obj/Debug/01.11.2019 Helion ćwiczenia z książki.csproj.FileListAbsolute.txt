@@ -1,0 +1,7 @@
+c:\users\schol\source\repos\01.11.2019 Helion ćwiczenia z książki\01.11.2019 Helion ćwiczenia z książki\bin\Debug\01.11.2019 Helion ćwiczenia z książki.exe.config
+c:\users\schol\source\repos\01.11.2019 Helion ćwiczenia z książki\01.11.2019 Helion ćwiczenia z książki\bin\Debug\01.11.2019 Helion ćwiczenia z książki.exe
+c:\users\schol\source\repos\01.11.2019 Helion ćwiczenia z książki\01.11.2019 Helion ćwiczenia z książki\bin\Debug\01.11.2019 Helion ćwiczenia z książki.pdb
+c:\users\schol\source\repos\01.11.2019 Helion ćwiczenia z książki\01.11.2019 Helion ćwiczenia z książki\obj\Debug\01.11.2019 Helion ćwiczenia z książki.csprojResolveAssemblyReference.cache
+c:\users\schol\source\repos\01.11.2019 Helion ćwiczenia z książki\01.11.2019 Helion ćwiczenia z książki\obj\Debug\01.11.2019 Helion ćwiczenia z książki.csproj.CoreCompileInputs.cache
+c:\users\schol\source\repos\01.11.2019 Helion ćwiczenia z książki\01.11.2019 Helion ćwiczenia z książki\obj\Debug\01.11.2019 Helion ćwiczenia z książki.exe
+c:\users\schol\source\repos\01.11.2019 Helion ćwiczenia z książki\01.11.2019 Helion ćwiczenia z książki\obj\Debug\01.11.2019 Helion ćwiczenia z książki.pdb

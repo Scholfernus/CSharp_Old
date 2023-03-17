@@ -1,0 +1,10 @@
+C:\Users\Schol\source\repos\02.03.2019 - magnez lodówka\02.03.2019 - magnez lodówka\bin\Debug\02.03.2019 - magnez lodówka.exe.config
+C:\Users\Schol\source\repos\02.03.2019 - magnez lodówka\02.03.2019 - magnez lodówka\bin\Debug\02.03.2019 - magnez lodówka.exe
+C:\Users\Schol\source\repos\02.03.2019 - magnez lodówka\02.03.2019 - magnez lodówka\bin\Debug\02.03.2019 - magnez lodówka.pdb
+C:\Users\Schol\source\repos\02.03.2019 - magnez lodówka\02.03.2019 - magnez lodówka\obj\Debug\02.03.2019 - magnez lodówka.csprojResolveAssemblyReference.cache
+C:\Users\Schol\source\repos\02.03.2019 - magnez lodówka\02.03.2019 - magnez lodówka\obj\Debug\_02._03._2019___magnez_lodówka.Form1.resources
+C:\Users\Schol\source\repos\02.03.2019 - magnez lodówka\02.03.2019 - magnez lodówka\obj\Debug\_02._03._2019___magnez_lodówka.Properties.Resources.resources
+C:\Users\Schol\source\repos\02.03.2019 - magnez lodówka\02.03.2019 - magnez lodówka\obj\Debug\02.03.2019 - magnez lodówka.csproj.GenerateResource.Cache
+C:\Users\Schol\source\repos\02.03.2019 - magnez lodówka\02.03.2019 - magnez lodówka\obj\Debug\02.03.2019 - magnez lodówka.csproj.CoreCompileInputs.cache
+C:\Users\Schol\source\repos\02.03.2019 - magnez lodówka\02.03.2019 - magnez lodówka\obj\Debug\02.03.2019 - magnez lodówka.exe
+C:\Users\Schol\source\repos\02.03.2019 - magnez lodówka\02.03.2019 - magnez lodówka\obj\Debug\02.03.2019 - magnez lodówka.pdb

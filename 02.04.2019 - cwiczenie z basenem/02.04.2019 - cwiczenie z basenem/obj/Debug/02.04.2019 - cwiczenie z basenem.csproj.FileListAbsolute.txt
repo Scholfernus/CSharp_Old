@@ -1,0 +1,10 @@
+C:\Users\Schol\source\repos\02.04.2019 - cwiczenie z basenem\02.04.2019 - cwiczenie z basenem\obj\Debug\02.04.2019 - cwiczenie z basenem.csprojResolveAssemblyReference.cache
+C:\Users\Schol\source\repos\02.04.2019 - cwiczenie z basenem\02.04.2019 - cwiczenie z basenem\obj\Debug\_02._04._2019___cwiczenie_z_basenem.Form1.resources
+C:\Users\Schol\source\repos\02.04.2019 - cwiczenie z basenem\02.04.2019 - cwiczenie z basenem\obj\Debug\_02._04._2019___cwiczenie_z_basenem.Properties.Resources.resources
+C:\Users\Schol\source\repos\02.04.2019 - cwiczenie z basenem\02.04.2019 - cwiczenie z basenem\obj\Debug\02.04.2019 - cwiczenie z basenem.csproj.GenerateResource.Cache
+C:\Users\Schol\source\repos\02.04.2019 - cwiczenie z basenem\02.04.2019 - cwiczenie z basenem\obj\Debug\02.04.2019 - cwiczenie z basenem.csproj.CoreCompileInputs.cache
+C:\Users\Schol\source\repos\02.04.2019 - cwiczenie z basenem\02.04.2019 - cwiczenie z basenem\bin\Debug\02.04.2019 - cwiczenie z basenem.exe.config
+C:\Users\Schol\source\repos\02.04.2019 - cwiczenie z basenem\02.04.2019 - cwiczenie z basenem\bin\Debug\02.04.2019 - cwiczenie z basenem.exe
+C:\Users\Schol\source\repos\02.04.2019 - cwiczenie z basenem\02.04.2019 - cwiczenie z basenem\bin\Debug\02.04.2019 - cwiczenie z basenem.pdb
+C:\Users\Schol\source\repos\02.04.2019 - cwiczenie z basenem\02.04.2019 - cwiczenie z basenem\obj\Debug\02.04.2019 - cwiczenie z basenem.exe
+C:\Users\Schol\source\repos\02.04.2019 - cwiczenie z basenem\02.04.2019 - cwiczenie z basenem\obj\Debug\02.04.2019 - cwiczenie z basenem.pdb

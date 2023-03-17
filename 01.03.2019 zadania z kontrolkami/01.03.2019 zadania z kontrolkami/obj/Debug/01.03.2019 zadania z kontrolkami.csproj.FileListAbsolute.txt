@@ -1,0 +1,10 @@
+C:\Users\Schol\source\repos\01.03.2019 zadania z kontrolkami\01.03.2019 zadania z kontrolkami\bin\Debug\01.03.2019 zadania z kontrolkami.exe.config
+C:\Users\Schol\source\repos\01.03.2019 zadania z kontrolkami\01.03.2019 zadania z kontrolkami\bin\Debug\01.03.2019 zadania z kontrolkami.exe
+C:\Users\Schol\source\repos\01.03.2019 zadania z kontrolkami\01.03.2019 zadania z kontrolkami\bin\Debug\01.03.2019 zadania z kontrolkami.pdb
+C:\Users\Schol\source\repos\01.03.2019 zadania z kontrolkami\01.03.2019 zadania z kontrolkami\obj\Debug\_01._03._2019_zadania_z_kontrolkami.Form1.resources
+C:\Users\Schol\source\repos\01.03.2019 zadania z kontrolkami\01.03.2019 zadania z kontrolkami\obj\Debug\_01._03._2019_zadania_z_kontrolkami.Properties.Resources.resources
+C:\Users\Schol\source\repos\01.03.2019 zadania z kontrolkami\01.03.2019 zadania z kontrolkami\obj\Debug\01.03.2019 zadania z kontrolkami.csproj.GenerateResource.Cache
+C:\Users\Schol\source\repos\01.03.2019 zadania z kontrolkami\01.03.2019 zadania z kontrolkami\obj\Debug\01.03.2019 zadania z kontrolkami.csproj.CoreCompileInputs.cache
+C:\Users\Schol\source\repos\01.03.2019 zadania z kontrolkami\01.03.2019 zadania z kontrolkami\obj\Debug\01.03.2019 zadania z kontrolkami.exe
+C:\Users\Schol\source\repos\01.03.2019 zadania z kontrolkami\01.03.2019 zadania z kontrolkami\obj\Debug\01.03.2019 zadania z kontrolkami.pdb
+C:\Users\Schol\source\repos\01.03.2019 zadania z kontrolkami\01.03.2019 zadania z kontrolkami\obj\Debug\01.03.2019 zadania z kontrolkami.csprojAssemblyReference.cache
